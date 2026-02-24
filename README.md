@@ -1,6 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Full Stack Applications + Data Science Projects 🚀<br><br>👯 I’m looking to collaborate on  <br>AI, ML, and innovative web applications.<br><br>🤝 I’m looking for help with  <br>Deep Learning & scalable system architecture.<br><br>🌱 I’m currently learning  <br>Machine Learning | Cloud | Backend Optimization<br><br>💬 Ask me about  <br>Python 🐍 | JavaScript ⚡ | React | Node.js | Data Analysis<br><br>⚡ Fun fact  <br>Code + Creativity = My favorite combination 😄
+🔭 I’m currently working on  
+Developing full stack web applications and data science projects focused on solving real-world problems through scalable and efficient solutions.
+👯 I’m looking to collaborate on  
+Open-source projects related to Data Science, Machine Learning, and modern Web Development.
+🤝 I’m looking for help with  
+Advanced Machine Learning techniques, system design, and cloud-based deployment.
+🌱 I’m currently learning  
+Machine Learning, Data Analytics, Backend Architecture, and Cloud Technologies.
+💬 Ask me about  
+Python, JavaScript, Full Stack Development, Data Analysis, and Software Development fundamentals.
+⚡ Fun fact  
+I enjoy combining analytical thinking with creativity to build impactful digital solutions.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukumar654/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarpriyanshu654@gmail.com) 
